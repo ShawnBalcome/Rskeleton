@@ -1,4 +1,4 @@
-<p align="center"><svg src=https://raw.githubusercontent.com/ShawnBalcome/Rskeleton/master/cute-skull.svg alt="Cute Skull and Bones" width="400" height="250"></p>
+<p align="center"><img src=https://raw.githubusercontent.com/ShawnBalcome/Rskeleton/master/cute-skull.png alt="Cute Skull and Bones" width="400" height="250"></p>
 
 # Rskeleton
 
