@@ -3,6 +3,8 @@
 # Also see the wiki:
 # https://github.com/craigcitro/r-travis/wiki
 
+warnings_are_errors: false
+
 language: r
 sudo: false
 cache: packages
